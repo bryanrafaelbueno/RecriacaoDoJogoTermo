@@ -30,7 +30,7 @@ Ele é open source e você também pode se basear nele.</br>
 ## Discord
 
 Caso você queira falar comigo, você pode falar comigo no meu discord:</br>
-GeleiaComPepino.js#7978</br>
+GeleiaComPepino</br>
 
 ## Licença
 [GNU](https://www.gnu.org/licenses/)
